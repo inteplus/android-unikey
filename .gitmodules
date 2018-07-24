@@ -1,0 +1,6 @@
+[submodule "thirdparties/ibus-unikey"]
+	path = thirdparties/ibus-unikey
+	url = https://github.com/inteplus/ibus-unikey.git
+[submodule "app/src/main/cpp/libunikey"]
+	path = app/src/main/cpp/libunikey
+	url = git@bitbucket.org:mtpham/libunikey.git
